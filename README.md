@@ -1,3 +1,14 @@
+## ChaBot
+
+This is our own fork of hubot, for use on #chadevelopers in
+freenode. This repo serves two purposes. One, if you're looking to
+talk to #cha developers hit up #chadevelopers on freenoe
+(irc.freenode.org).
+
+Second, I'm trying to add functionality such as searchable history,
+event reminders, other fun stuff to the room, and I never get to write
+coffee script, so this should be a fun project for us.
+
 # Hubot
 
 Hubot is a chat bot, modeled after GitHub's Campfire bot, hubot. He's pretty

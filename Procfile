@@ -1,1 +1,1 @@
-app: bin/hubot -a irc -n chabot
+app: bin/hubot -a irc -n chattabotta

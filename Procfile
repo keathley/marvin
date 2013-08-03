@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n chattabotta
+web: bin/hubot -a irc -n marvin

@@ -1,1 +1,1 @@
-web: bin/hubot -a irc -n marvin
+web: bin/hubot -a irc -n marvin|cha
